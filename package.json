@@ -1,0 +1,23 @@
+{
+  "name": "proffy",
+  "version": "1.0.0",
+  "description": "<h3 align=\"center\">\r   *🚧 Em construção 🚧*\r </h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haejeog/proffy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haejeog/proffy/issues"
+  },
+  "homepage": "https://github.com/haejeog/proffy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
